@@ -105,7 +105,7 @@ export default {
   top: -62px;
   left: 25%;
   font-size: 1.2em;
-  color: #1c696b
+  color: orange
 }
 
 .tooltip .tooltipGraph {
